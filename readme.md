@@ -25,3 +25,10 @@
     - If 1, issue ticket and print details or error
     - If 2, prompt for ticket number
     - Ask to pay
+
+
+
+###### List group responsiblities below:
+###### Provide name and approxamite line numbers where each person wrote their code
+Oackland - structure and debug (100 lines)
+Jennifer - logic and run code/print functions (40 lines)
