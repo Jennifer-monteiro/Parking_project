@@ -30,5 +30,5 @@
 
 ###### List group responsiblities below:
 ###### Provide name and approxamite line numbers where each person wrote their code
-Oackland - structure and debug (100 lines)
-Jennifer - logic and run code/print functions (40 lines)
+Oackland - structure and debug 
+Jennifer - logic and run code/print functions 
